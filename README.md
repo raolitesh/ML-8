@@ -1,2 +1,4 @@
-# ML-8
-principal component analysis
+# Liteshwar Rao
+# Assignment
+# Principal component analysis
+- clustering using PCA scores
